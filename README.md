@@ -7,10 +7,13 @@ Our main objective of the project is that we have to provide the user all the ne
 
 Tech Stack:
 
->>> Collect Details from the API
->>> Connect to the API
->>> Fetch relevant(necessary) details as per users choice
->>> Show the gathered result.
+> Collect Details from the API
+
+> Connect to the API
+
+> Fetch relevant(necessary) details as per users choice
+
+> Show the gathered result.
 
 ![image](https://user-images.githubusercontent.com/81156510/128354436-4aa2d534-9925-45ae-a02d-0090efd8bea1.png)
 
@@ -25,5 +28,5 @@ Tech Stack:
 ![image](https://user-images.githubusercontent.com/81156510/128354511-5b23d7c1-1fb9-452b-94cd-2274cd67a92f.png)
 
 **Future Scope:**
->>> Make this as a website for better reach.
->>> Also look for more data sources to provide better results.
+<li>Make this as a website for better reach.
+Also look for more data sources to provide better results.</li>
