@@ -28,5 +28,5 @@ Tech Stack:
 ![image](https://user-images.githubusercontent.com/81156510/128354511-5b23d7c1-1fb9-452b-94cd-2274cd67a92f.png)
 
 **Future Scope:**
-<li>Make this as a website for better reach.
-Also look for more data sources to provide better results.</li>
+<li>Make this as a website for better reach.</li>
+<li>Also look for more data sources to provide better results.</li>
